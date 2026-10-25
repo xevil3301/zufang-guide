@@ -1,0 +1,48 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\affordability-model.md": "13f33bcaf5d565809f701e23cca4f690aff3daf5c3352ba6e92209b4b3786c85",
+    "references\\capabilities\\budget-and-needs.md": "33683d7450f424a9221bacaf2369d875a58a143970153059fb337a968009fcb0",
+    "references\\capabilities\\city-params.md": "046c3310e647fff0d4e1eb3e67d7187f44262453ee764c809e4690dad982fd33",
+    "references\\capabilities\\community-and-maintenance.md": "46629e30fb725aa69dae457acb300f304e4acefc72bc87732d0f42f60bf68cd5",
+    "references\\capabilities\\contract-review.md": "f85d08e5f327da0ac9110b7bd3409ed3d84f54c717382bb9e2ff135b5efdfef8",
+    "references\\capabilities\\deposit-and-move-out.md": "8f88bfc5a57d770625c5c2a3390c384b1080a06e29a29e78c29f2bbfaad1cfc6",
+    "references\\capabilities\\home-safety.md": "d38b40a2325b54495f6a80cdada06f7b119119c008a60b05d95203a1785aaf36",
+    "references\\capabilities\\intake-interview.md": "0941d1321239037c2bcb27ffed54819122826a3379dc14db0ed45b1a57dc0ccc",
+    "references\\capabilities\\legal-basis.md": "b065f507357e73fb789dc83cbb9cb69b4fcc34bd2607d79519b692420c7de5a6",
+    "references\\capabilities\\move-in-handover.md": "08303840a7dc4d04f91389832b2195c65965a349599466dcc76f86b0ca84b05c",
+    "references\\capabilities\\public-services.md": "e2ff45e0b1d7f428c6e07fb495ba92f26e62ec16acd6c6f070c453e61b915cdc",
+    "references\\capabilities\\rent-loan.md": "c200430cf912bc8c59638c5474a66416d1644f3bc94bac53327f14a01dbc86ed",
+    "references\\capabilities\\rights-and-benefits.md": "6a67757fb9bd829effd014e565560e7469747c60ff909a04741c03bce1c222ab",
+    "references\\capabilities\\short-stay.md": "4c7631547b1f05932f99f5f23618266e7864e2078571899f42eec17124158013",
+    "references\\capabilities\\sourcing-and-scam.md": "5a04a49c8d2f705dc3401ab1e72d6e7e52ba3574be6967bcb6f4a7af1927ea77",
+    "references\\capabilities\\sublet.md": "968f1dc0b436971e072eba517bcce690a55fb8a74d85134e9f270a65e3dcc745",
+    "references\\capabilities\\triage.md": "882871baa5aef46c886e1bc94003425312d71e9375eef21cfd38b718667a1245",
+    "references\\capabilities\\viewing-inspection.md": "2a9898aecc0b139bddc6c9678aa9b89bae6c8fe21b294959778110648fa881c9",
+    "references\\capability-index.md": "2987dd019ef403aa5dbe506fc59f474dd498840928337466dbfc0d13a46fe23a",
+    "references\\cheatsheet.md": "a28025241a76901cbf0f905b07482113bf4d359bb10e79443d29fab5f65ef486",
+    "references\\glossary.md": "658a9c211873475baec1f861038b1a16dc2046cf00a10b2ffcd884096908b888",
+    "references\\overview.md": "366c504b0c419a031c710f8eb404d2eb9bdc8f82135d95c56315689fe752ee27",
+    "SKILL.md": "2dbba98e5eef53460711a618087e071134c4bfa1818efc0fbcbbe97c32df9e67"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.zufang-guide",
+  "bundle_sha256": "2b2aebbc12ea97c0b1775ea876fe787216dd8f35c1ac993992409a6651e72fcb",
+  "variant": "single",
+  "run_id": "run-20261026-014641-26a408",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 18,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
