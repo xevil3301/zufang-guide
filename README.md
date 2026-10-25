@@ -66,10 +66,6 @@ git clone https://github.com/xevil3301/zufang-guide.git ~/.agents/skills/zufang-
 
 买房、房贷、装修施工、代替律师出法律意见、查某个城市此刻的在租房源。
 
-### 来源
-
-内容底本：《城市租房生存指南》，作者拿小多，[zufang.ababtools.com](https://zufang.ababtools.com/)。法条引自民法典、住房租赁条例、商品房屋租赁管理办法等公开文本。工程结构以 MIT 协议开放。
-
 ---
 
 ## English
@@ -118,10 +114,6 @@ City, deposit amount, evidence, and who the other side is. Without those, the an
 ### Out of scope
 
 Buying property, mortgages, renovation, formal legal opinions, and live listing data.
-
-### Attribution
-
-Source handbook: *城市租房生存指南* by 拿小多, [zufang.ababtools.com](https://zufang.ababtools.com/). Statutes are public legal texts. Engineering structure released under MIT.
 
 ---
 
