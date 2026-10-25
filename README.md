@@ -106,9 +106,11 @@ DSH 会在下一次对话自动发现它，不用重启。Claude Code 等读取 
 
 - 内容覆盖：**12 / 12**（每个用例都在某一轮拿到满分）
 - 单轮通过：**11 / 12**（掉的那一个每次不同，重跑即满分，属于执行抖动）
-- 条目通过：**47 / 48**
+- 条目通过：最好 **48 / 48**，单轮波动最低 **45 / 48**
 
 我没有把它写成「百分百通过」。一个会漏项的助手，比一个声称不会漏项的助手更值得信任。
+
+完整方法与每轮数字在 [TESTING.md](./TESTING.md)。
 
 ### 它不做什么
 
@@ -172,7 +174,7 @@ For DeepSeek Harness the skill is discovered on the next turn, no restart needed
 
 - Content coverage: **12 / 12**
 - Single-run pass: **11 / 12** (the failing case rotates and passes on rerun, an execution jitter)
-- Criteria: **47 / 48**
+- Criteria: 48/48 at best, 45/48 on the weakest single run
 
 ### Out of scope
 
